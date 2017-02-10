@@ -1,0 +1,14 @@
+{
+"name": "fullstack-back-end",
+  "version": "0.0.1",
+  "dependencies": {
+    "express": "4.x",
+    "body-parser": "*",
+    "morgan": "*",
+    "mongoose": "*",
+    "jsonwebtoken": "*"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
